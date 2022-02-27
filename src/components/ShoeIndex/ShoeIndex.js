@@ -47,6 +47,7 @@ const Wrapper = styled.div`
 `;
 
 const LeftColumn = styled.div`
+  padding-top: 15px;
   flex-basis: 248px;
 `;
 
